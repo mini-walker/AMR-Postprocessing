@@ -1,0 +1,18 @@
+{
+  "time_label_position": [0.5, 0.96],
+  "plotfile_dir": "output",
+  "var_name": ["phi", "analytical_phi", "dphidx"],
+  "color_map": ["hot_r", "hot_r", "Rainbow"],
+  "layout_rows": 1,
+  "var_color_range": [
+    [-1.0, 1.0],
+    [-1.0, 1.0],
+    [-10.0, 10.0]
+  ],
+  "titles": [
+    "$\\phi$",
+    "$\\phi_{\\mathrm{analytical}}$",
+    "$\\frac{\\partial \\phi}{\\partial x}$"
+  ]
+}
+
