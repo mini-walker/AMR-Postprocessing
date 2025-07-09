@@ -1,6 +1,4 @@
-# AMR Postprocessing
-
-This is a template for README.md
+# This is a template for README.md
 
 ## 1. Figure
 ![image](debug_results/plt00000/plt00000_combined.png)
