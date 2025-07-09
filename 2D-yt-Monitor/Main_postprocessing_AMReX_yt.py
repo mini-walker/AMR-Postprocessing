@@ -2,7 +2,6 @@
 # Project                       : Postprocessing the AMReX plotfile with yt
 # Postprocessing_AMReX_yt       : The main function
 # Programer                     : Shanqin Jin
-# Note                          : You need to run the command "conda activate pyamrex"
 # Date                          : 2025-07-06
 #-----------------------------------------------------------------------------------------
 #!/usr/bin/env python3
