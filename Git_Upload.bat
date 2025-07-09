@@ -38,7 +38,7 @@ echo.
 echo ===== Step 3: Set remote if not already set =====
 git remote -v | findstr /C:"origin" >nul
 IF ERRORLEVEL 1 (
-    git remote add origin git@github.com:mini-walker/AMReX-Postprocessing.git
+    git remote add origin git@github.com:mini-walker/AMR-Postprocessing.git
     echo [INFO] Remote origin set
 ) ELSE (
     echo [INFO] Remote origin already exists
